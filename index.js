@@ -9,7 +9,7 @@ for (const image in setup.iOS_Setup.images) {
         .resize(
           setup.iOS_Setup.images[image].height,
           setup.iOS_Setup.images[image].width
-        ) // resize
+        )
         .write(`./icons/${setup.iOS_Setup.images[image].fileName}_${fileName}`); // save
     })
     .catch(err => {
