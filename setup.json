@@ -1,0 +1,96 @@
+{
+  "iOS_Setup": {
+    "images": [
+      {
+        "fileName": "iphone_notification_2x_",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "fileName": "iphone_notification_3x_",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "fileName": "iphone_settings_2x_",
+        "width": 58,
+        "height": 58
+      },
+      {
+        "fileName": "iphone_settings_3x_",
+        "width": 87,
+        "height": 87
+      },
+      {
+        "fileName": "iphone_spotlight_2x_",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "fileName": "iphone_spotlight_3x_",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "fileName": "iphone_App_2x_",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "fileName": "iphone_App_3x_",
+        "width": 180,
+        "height": 180
+      },
+      {
+        "fileName": "ipad_notification_2x_",
+        "width": 20,
+        "height": 20
+      },
+      {
+        "fileName": "ipad_notification_3x_",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "fileName": "ipad_settings_2x_",
+        "width": 29,
+        "height": 29
+      },
+      {
+        "fileName": "ipad_settings_3x_",
+        "width": 58,
+        "height": 58
+      },
+      {
+        "fileName": "ipad_spotlight_2x_",
+        "width": 40,
+        "height": 40
+      },
+      {
+        "fileName": "ipad_spotlight_3x_",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "fileName": "ipad_App_2x_",
+        "width": 76,
+        "height": 76
+      },
+      {
+        "fileName": "ipad_App_3x_",
+        "width": 152,
+        "height": 152
+      },
+      {
+        "fileName": "ipad_Pro_App_2x_",
+        "width": 167,
+        "height": 167
+      },
+      {
+        "fileName": "App_Store",
+        "width": 1024,
+        "height": 1024
+      }
+    ]
+  }
+}
