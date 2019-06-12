@@ -10,7 +10,7 @@ for (const image in setup.iOS_Setup.images) {
           setup.iOS_Setup.images[image].height,
           setup.iOS_Setup.images[image].width
         )
-        .write(`./icons/${setup.iOS_Setup.images[image].fileName}_${fileName}`); // save
+        .write(`./icons/${setup.iOS_Setup.images[image].fileName}_${fileName}`);
     })
     .catch(err => {
       console.error(err);
