@@ -1,7 +1,6 @@
 var Jimp = require("jimp");
 const setup = require("./setup.json");
-
-const fileName = "weight-lifting_original.png";
+const fileName = process.argv[2];
 for (const image in setup.iOS_Setup.images) {
   Jimp.read(fileName)
     .then(lenna => {
